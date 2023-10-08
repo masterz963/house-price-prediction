@@ -1,1 +1,1 @@
-# house-price-prediction
+House Price Prediction with Linear Regression: A data-driven project utilizing linear regression algorithms to estimate housing prices. Explore historical data, apply regression modeling, and gain insights for property valuation and market analysis.
